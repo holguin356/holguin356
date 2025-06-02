@@ -15,7 +15,6 @@
 
 ---
 
-## 📂 Estructura del repositorio
 ### 🌐 Web personal
 > Sitio desarrollado con JavaScript, Html, Css y Node para mostrar mi perfil profesional con posicionamiento en google.  
 🔗 [Ver sitio](https://holguin356.github.io/sebasholguinweb)
